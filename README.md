@@ -57,7 +57,7 @@ py -3.13 -m venv venv
 .\venv\Scripts\python.exe -m pip install -r requirements.txt
 ```
 
-## 🏋️ Train
+## Train
 
 ```powershell
 .\venv\Scripts\python.exe train_agent_2116.py --train --filename best_policy_2116.npy
